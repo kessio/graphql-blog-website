@@ -1,6 +1,6 @@
-# Graphql-blog
+# Graphql-blog-website
 
-- This project contains a blog that displays various blog posts to usrs, users can click on any article and read them. The articles are fecthed from hygraph CMS using graphql.
+- This project contains a blog that displays various blog posts to users, users can click on any article and read them. The articles are fecthed from hygraph CMS using graphql.
 
 ## Built With
 
