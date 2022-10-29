@@ -1,8 +1,31 @@
+# Graphql-blog
+
+- This project contains a blog that displays various blog posts to usrs, users can click on any article and read them. The articles are fecthed from hygraph CMS using graphql.
+
+## Built With
+
+- Major languages : Html5, Javascript, CSS
+- Frameworks: nextjs, graphql, TailwindCSS
+- Technologies used: Git, npm, linters
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+- Node js
+- npm
+
+### Setup
+
+- To get a local copy up and running you'll need to have NodeJS installed on your local machine.
+
+### Install
+
+``` npm install ```
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -14,21 +37,29 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+👤 **Author1**
 
-## Learn More
+- GitHub: [@kessio](https://github.com/kessio)
+- Twitter: [@kessio_sharon](https://twitter.com/kessio_sharon)
+- LinkedIn: [kessio](https://linkedin.com/in/linkedin/sharon-kessio)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions, issues, and feature requests are welcome!
 
-## Deploy on Vercel
+Feel free to check the [issues page](../../issues/).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Show your support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
