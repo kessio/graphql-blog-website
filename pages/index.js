@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css'
 import { GraphQLClient, gql } from 'graphql-request'
 import BlogCard from '../components/BlogCard'
 
-const graphCms =  new GraphQLClient('https://api-eu-west-2.hygraph.com/v2/cl9rwb3av1ago01t8gpo0cuir/master');
+const graphCms =  new GraphQLClient(process.env.NEXT_GRAPHCMA_API)
 
 const QUERY = gql`
 {
